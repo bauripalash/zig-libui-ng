@@ -1,11 +1,11 @@
 .{
-    .name = "trex",
+    .name = "zig_libui_ng",
     .version = "0.1.0",
     .paths = .{""},
     .dependencies = .{
         .libui = .{
-            .url = "https://github.com/desttinghim/libui-ng/archive/8f1cf77be2906d6f0c15b0a2f97667f97624a856.tar.gz",
-            .hash = "1220698758aa5cd9c04cceaa31c894ed970fea97efd196213eb0cdac66b611432d76",
+            .url = "https://github.com/bauripalash/libui-ng-desttinghim/archive/refs/heads/zigbuild-path.tar.gz",
+            .hash = "1220540df960353e04185095e46c2cd6edf1c1cb8995983d1bd31e57ecb6d296df13",
         },
     },
 }
