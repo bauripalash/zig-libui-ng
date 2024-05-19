@@ -5,7 +5,7 @@
     .dependencies = .{
         .libui = .{
             .url = "https://github.com/bauripalash/libui-ng-desttinghim/archive/refs/heads/zigbuild-path.tar.gz",
-            .hash = "12201e95a1a310a2cc513ef5ad9a23a4a1727df8b7b1a8f2b21182887cd10cd52c2c",
+            .hash = "12203dd56c356983bb3acb477d6f0e12b6ae81d1bb676ca723d48a63a6c2ab33a3ec",
         },
     },
 }
